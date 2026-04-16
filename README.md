@@ -34,6 +34,7 @@ The system minimizes material wastage by computing optimal layouts using **No-Fi
 
 ├── Outputs
 │   ├── *.svg               (Generated nesting layouts)
+
 ---
 
 ## Setup
@@ -47,6 +48,7 @@ cmake ..
 cmake --build . --config Release
 
 If skipped, the engine automatically falls back to a Python implementation (slower).
+
 ---
 
 ## Usage
