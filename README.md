@@ -17,6 +17,7 @@ The system minimizes material wastage by computing optimal layouts using **No-Fi
 ---
 
 ## Project Structure
+
 ├── bindings.cpp        # Python ↔ C++ bridge (pybind11)
 ├── nfp_core.hpp        # Core geometry engine
 ├── placer.py           # Nesting + optimization logic
