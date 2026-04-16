@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="789" height="640" style="background:#f8f7f4;font-family:sans-serif">
+<text x="395" y="24" text-anchor="middle" font-size="14" font-weight="500" fill="#3d3d3a">Greedy nesting - 59.4% utilisation (12/12 parts)</text>
+<rect x="40.0" y="40.0" width="709.1" height="520.0" fill="#fff" stroke="#999" stroke-width="1.5" stroke-dasharray="6 3"/>
+<polygon points="44.7,555.3 186.5,555.3 186.5,460.7 44.7,460.7" fill="#AFA9EC" fill-opacity="0.72" stroke="#444" stroke-width="0.9" />
+<text x="115.6" y="508.0" text-anchor="middle" dominant-baseline="central" font-size="9" fill="#222">rect_large</text>
+<polygon points="72.8,451.3 191.0,451.3 167.3,368.5 49.2,368.5" fill="#9FE1CB" fill-opacity="0.72" stroke="#444" stroke-width="0.9" />
+<text x="120.1" y="409.9" text-anchor="middle" dominant-baseline="central" font-size="9" fill="#222">parallelogram</text>
+<polygon points="108.2,359.1 167.3,316.5 143.7,245.6 72.8,245.6 49.2,316.5" fill="#F5C4B3" fill-opacity="0.72" stroke="#444" stroke-width="0.9" />
+<text x="108.2" y="296.7" text-anchor="middle" dominant-baseline="central" font-size="9" fill="#222">pentagon</text>
+<polygon points="72.8,236.2 191.0,236.2 167.3,165.3 49.2,165.3" fill="#FAC775" fill-opacity="0.72" stroke="#444" stroke-width="0.9" />
+<text x="120.1" y="200.7" text-anchor="middle" dominant-baseline="central" font-size="9" fill="#222">trapezoid</text>
+<polygon points="44.7,143.1 151.1,143.1 151.1,72.2 44.7,72.2" fill="#B5D4F4" fill-opacity="0.72" stroke="#444" stroke-width="0.9" />
+<text x="97.9" y="107.7" text-anchor="middle" dominant-baseline="central" font-size="9" fill="#222">rect_med</text>
+<polygon points="160.5,149.0 243.3,149.0 243.3,66.3 160.5,66.3" fill="#C0DD97" fill-opacity="0.72" stroke="#444" stroke-width="0.9" />
+<text x="201.9" y="107.7" text-anchor="middle" dominant-baseline="central" font-size="9" fill="#222">square</text>
+<polygon points="247.2,404.1 247.2,285.9 145.5,345.0" fill="#F4C0D1" fill-opacity="0.72" stroke="#444" stroke-width="0.9" />
+<text x="213.3" y="345.0" text-anchor="middle" dominant-baseline="central" font-size="9" fill="#222">triangle 90°</text>
+<polygon points="290.5,555.3 290.5,437.1 255.1,437.1 255.1,484.4 196.0,484.4 196.0,508.0 255.1,508.0 255.1,555.3" fill="#D3D1C7" fill-opacity="0.72" stroke="#444" stroke-width="0.9" />
+<text x="249.2" y="496.2" text-anchor="middle" dominant-baseline="central" font-size="9" fill="#222">t_shape 90°</text>
+<polygon points="289.8,183.8 195.3,183.8 195.3,219.3 254.4,219.3 254.4,278.4 289.8,278.4" fill="#F09595" fill-opacity="0.72" stroke="#444" stroke-width="0.9" />
+<text x="246.5" y="227.1" text-anchor="middle" dominant-baseline="central" font-size="9" fill="#222">l_shape 180°</text>
+<polygon points="327.6,433.5 327.6,244.4 299.3,244.4 299.3,433.5" fill="#5DCAA5" fill-opacity="0.72" stroke="#444" stroke-width="0.9" />
+<text x="313.5" y="338.9" text-anchor="middle" dominant-baseline="central" font-size="9" fill="#222">rect_thin 90°</text>
+<polygon points="252.7,171.9 311.8,171.9 311.8,124.6 252.7,124.6" fill="#EF9F27" fill-opacity="0.72" stroke="#444" stroke-width="0.9" />
+<text x="282.3" y="148.3" text-anchor="middle" dominant-baseline="central" font-size="9" fill="#222">rect_small</text>
+<polygon points="224.0,275.1 193.9,245.1 163.8,275.1 193.9,305.2" fill="#85B7EB" fill-opacity="0.72" stroke="#444" stroke-width="0.9" />
+<text x="193.9" y="275.1" text-anchor="middle" dominant-baseline="central" font-size="9" fill="#222">small_sq 135°</text>
+<rect x="40.0" y="576.0" width="709.1" height="8" fill="#e0ddd5" rx="4"/>
+<rect x="40.0" y="576.0" width="421.2" height="8" fill="#1D9E75" rx="4"/>
+<text x="757.1" y="583.0" font-size="11" fill="#555">59.4%</text>
+</svg>
