@@ -18,15 +18,22 @@ The system minimizes material wastage by computing optimal layouts using **No-Fi
 
 ## Project Structure
 
-├── bindings.cpp        # Python ↔ C++ bridge (pybind11)
-├── nfp_core.hpp        # Core geometry engine
-├── placer.py           # Nesting + optimization logic
-├── demo.py             # CLI + visualization
-├── demo_2.py           # Rectangular test cases
-├── experimental.py     # Experimental runs
-├── test_nfp_core.cpp   # C++ validation tests
-├── CMakeLists.txt      # Build configuration
-├── *.svg               # Output layouts
+├── C++ Core
+│   ├── bindings.cpp        (Python ↔ C++ interface)
+│   ├── nfp_core.hpp        (Geometry engine: NFP, IFP, offset)
+│   ├── test_nfp_core.cpp   (Unit tests)
+
+├── Python Engine
+│   ├── placer.py           (Nesting + optimization logic)
+│   ├── demo.py             (Main demo + visualization)
+│   ├── demo_2.py           (Rectangular test cases)
+│   ├── experimental.py     (Experimental runs)
+
+├── Build
+│   ├── CMakeLists.txt      (C++ build configuration)
+
+├── Outputs
+│   ├── *.svg               (Generated nesting layouts)
 ---
 
 ## Setup
