@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Build files
+/build/
+*.o
+*.obj
+*.exe
+*.pyd
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
